@@ -98,3 +98,4 @@ Edit `CONTACT_PHONE` in `includes/data.php`.
 - 📱 Fully responsive (mobile-first)
 - ⏱️ Countdown timer on promo banner
 - ✅ Checkout form with all 58 Algerian wilayas
+Desgined By SEIF EDDINE BELOMKHTAR
